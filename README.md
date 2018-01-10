@@ -1,0 +1,2 @@
+# US-Bikeshare-Analysis-Udacity-Project-
+This project uses Python to explore data related to bikeshare systems for three major bikeshare systems in the United States. Data wrangling is done to unify the format of data from the three systems and write code to compute descriptive statistics. It also encompases the use of a package that is not part of the standard Python library to help visualize the data.
